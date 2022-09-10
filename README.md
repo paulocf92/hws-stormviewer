@@ -1,9 +1,9 @@
 # Hacking With Swift - StormViewer project
 
 This project features:
-- UIKit with UI Builder
-- Constraints via UI Builder
-- Connecting UI Builder elements to code via Assistant (IBOutlets) and classes
+- UIKit with Interface Builder
+- Constraints via Interface Builder
+- Connecting Interface Builder elements to code via Assistant (IBOutlets) or classes
 - Table View item listing
 - Image View and content mode
 - Navigation between two screens
